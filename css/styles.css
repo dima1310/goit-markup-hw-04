@@ -301,9 +301,7 @@ img {
   align-items: center;
   justify-content: center;
 }
-.soc-icon:hover {
-  background-color: #404bbf;
-}
+
 .soc-icon {
   display: flex;
   align-items: center;
@@ -313,6 +311,9 @@ img {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
+}
+.soc-icon:focus {
+  background-color: #404bbf;
 }
 .portfolio {
   padding: 120px 0;
