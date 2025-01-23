@@ -300,6 +300,9 @@ img {
   align-items: center;
   justify-content: center;
 }
+.card-soc-icon:hover {
+  background-color: #404bbf;
+}
 .soc-icon {
   display: flex;
   align-items: center;
@@ -356,6 +359,14 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.card-wraper {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  background: #4d5ae5;
 }
 .team {
   background-color: #f4f4fd;
