@@ -300,7 +300,7 @@ img {
   align-items: center;
   justify-content: center;
 }
-.card-soc-icon:hover {
+.soc-icon:hover {
   background-color: #404bbf;
 }
 .soc-icon {
