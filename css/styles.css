@@ -139,6 +139,12 @@ img {
   color: #404bbf;
 }
 .container-hero {
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/background.jpg);
+  background-repeat: no-repeat;
 }
 .hero-title {
   font-weight: 700;
