@@ -89,6 +89,7 @@ img {
   gap: 40px;
   align-items: center;
 }
+.nav-item,
 .nav-link {
   display: block;
   font-weight: 500;
