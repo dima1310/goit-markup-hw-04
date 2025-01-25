@@ -453,11 +453,11 @@ img {
   margin-bottom: 16px;
 }
 .soc-footer {
-  align-items: baseline;
+  /* align-items: baseline; */
 }
 .soc-footer-item {
   display: flex;
-  gap: 16px;
+  /* gap: 16px; */
   width: 40px;
   height: 40px;
   margin: 0 auto;
