@@ -88,7 +88,6 @@ img {
   gap: 40px;
   align-items: center;
 }
-.nav-item,
 .nav-link {
   display: block;
   font-weight: 500;
@@ -412,8 +411,7 @@ img {
   background-color: #f4f4fd;
 }
 .container-footer {
-  margin-right: 120px;
-  margin: 0 auto;
+  display: flex;
 }
 .footer {
   background-color: #2e2f42;
@@ -430,6 +428,9 @@ img {
   color: #4d5ae5;
   align-items: center;
   margin-bottom: 16px;
+}
+.footer-logo-box {
+  margin-right: 120px;
 }
 .footer-text,
 .footer-logo-part {
@@ -452,7 +453,6 @@ img {
   margin-bottom: 16px;
 }
 .soc-footer {
-  display: flex;
   align-items: baseline;
 }
 .soc-footer-item {
