@@ -272,9 +272,9 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 .card-list {
-  margin-top: 8px;
   display: flex;
   gap: 24px;
   align-items: center;
@@ -449,13 +449,13 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
+  margin-bottom: 16px;
 }
 .soc-footer {
   align-items: baseline;
 }
 .soc-footer-list {
   gap: 16px;
-  margin-top: 16px;
 }
 /* .footer-s {
   width: 100%;
