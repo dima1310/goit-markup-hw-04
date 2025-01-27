@@ -295,6 +295,7 @@ img {
   align-items: center;
   justify-content: center;
 }
+
 .soc {
   width: 100%;
   height: 100%;
@@ -448,13 +449,13 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  margin-bottom: 16px;
 }
 .soc-footer {
   align-items: baseline;
 }
 .soc-footer-list {
   gap: 16px;
+  margin-top: 16px;
 }
 /* .footer-s {
   width: 100%;
